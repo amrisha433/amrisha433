@@ -37,6 +37,9 @@ Task management application using Room Database and MVVM architecture.
 
 A clean and attractive coffee ordering application built with Jetpack Compose.
 
+###🧠 FlashCard Quiz
+An interactive quiz application that helps users learn and test their knowledge through flashcards, score tracking, and engaging question-based learning
+
 ---
 
 ## 🎯 Currently Learning
