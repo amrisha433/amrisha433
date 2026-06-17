@@ -81,17 +81,6 @@ Modern quote generator application featuring random quote generation, quote shar
 
 ---
 
-## 🌱 Goals for 2026
-
-* Build a complete Fitness Tracker App
-* Master Hilt Dependency Injection
-* Learn Clean Architecture
-* Publish Android applications on Google Play Store
-* Contribute to Open Source Projects
-* Strengthen Backend Integration Skills
-
----
-
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/amrisha433
