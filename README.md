@@ -72,7 +72,7 @@ An interactive quiz application that helps users learn and test their knowledge 
 
 ### 📫 Connect With Me
 
-GitHub: https://github.com/amrisha433
-LinkedIn: https://www.linkedin.com/in/amrisha-maurya-88a04a339
+* GitHub: https://github.com/amrisha433
+* LinkedIn: https://www.linkedin.com/in/amrisha-maurya-88a04a339
 
 ⭐ Thanks for visiting my profile!
