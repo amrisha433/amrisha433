@@ -83,6 +83,7 @@ Modern quote generator application featuring random quote generation, quote shar
 
 ## 📫 Connect With Me
 
+* Email: amrishamaurya@gmail.com
 * GitHub: https://github.com/amrisha433
 * LinkedIn: https://www.linkedin.com/in/amrisha-maurya-88a04a339
 
