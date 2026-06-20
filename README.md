@@ -13,6 +13,7 @@ Passionate Android Developer focused on building modern, user-friendly mobile ap
 * Kotlin
 * Java
 * Python
+* C
 
 ### Android Development
 
@@ -33,6 +34,11 @@ Passionate Android Developer focused on building modern, user-friendly mobile ap
 * Git & GitHub
 * REST APIs
 * Gradle
+* Canva
+* VS code
+* Py Charm
+* C++ Dev
+* SQL
 
 ---
 
