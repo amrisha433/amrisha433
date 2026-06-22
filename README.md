@@ -44,21 +44,25 @@ Passionate Android Developer focused on building modern, user-friendly mobile ap
 
 ## 📱 Featured Projects
 
+### 🏋️ Fitness Tracker App
+
+A modern fitness tracking application built with Kotlin, Jetpack Compose, MVVM Architecture, and Room Database. Features workout management, progress analytics, daily goals tracking, water intake monitoring, step tracking, workout history, category-based insights, and Dark Mode support.
+
 ### ☕ Coffee App
 
-Modern coffee ordering application built with Kotlin and Jetpack Compose featuring AI-powered coffee suggestions, category filtering, favorites management, cart functionality, multiple payment options, and a beautiful Material 3 user interface.
+A modern coffee ordering application built with Kotlin and Jetpack Compose featuring AI-powered coffee recommendations, category filtering, favorites management, shopping cart functionality, multiple payment options, and a polished Material 3 user interface.
 
 ### 🌟 Daily Affirmation App
 
-Motivational Android application built using MVVM Architecture and Firebase Firestore that delivers positive daily affirmations through real-time cloud data integration.
+A motivational Android application built using MVVM Architecture and Firebase Firestore that delivers positive daily affirmations through real-time cloud data synchronization and a clean, user-friendly interface.
 
 ### ✅ Todo App
 
-Task management application built with Kotlin, Jetpack Compose, Room Database, and MVVM architecture featuring CRUD operations and local data persistence.
+A task management application built with Kotlin, Jetpack Compose, Room Database, and MVVM Architecture featuring task creation, editing, deletion, completion tracking, and efficient local data persistence.
 
-### 🧠 FlashCard Quiz
+### 🧠 FlashCard Quiz App
 
-Interactive learning application built with Jetpack Compose that allows users to create, edit, delete, and navigate flashcards for effective learning and revision.
+An interactive learning application built with Jetpack Compose that enables users to create, edit, delete, and review flashcards through a simple and engaging interface designed for effective learning and revision.
 
 ### 💬 QuoteNova
 
