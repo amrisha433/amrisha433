@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Amrisha Maurya
 
+
 ### 🚀 Android Developer | Kotlin | Jetpack Compose | Firebase | MVVM
 
 Passionate Android Developer focused on building modern, user-friendly mobile applications using **Kotlin** and **Jetpack Compose**. I enjoy transforming ideas into functional applications while continuously improving my skills in Android architecture, UI/UX design, and backend integration. Currently exploring advanced Android development concepts including Firebase, Room Database, Dependency Injection, and Clean Architecture.
